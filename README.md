@@ -6,6 +6,9 @@ Built in pure native C# (WPF + Win32) with zero external dependencies—compilin
 
 ---
 
+<img width="724" height="223" alt="image" src="https://github.com/user-attachments/assets/72cf1a93-a32c-4e91-8647-92becb86210f" />
+<img width="617" height="432" alt="image" src="https://github.com/user-attachments/assets/318463d0-4ca2-4f98-898b-16a5e1f062b7" />
+
 ## 🌟 Features
 
 - **Minimalist Smoked-Glass Aesthetic:** Soft-cornered translucent glass bar with a living sapphire & ice-blue ambient glow. Shows **only** the search bar when summoned—no clutter, no ads, and no visual noise.
